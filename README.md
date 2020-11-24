@@ -17,4 +17,4 @@ yarn && yarn start
 ```
 
 This project was forked from
-[Sports NFT](https://github.com/trixtoken/sports-nft).
+[Substratekitties](https://github.com/danforbes/substratekitties).
